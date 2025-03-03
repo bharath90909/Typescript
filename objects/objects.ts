@@ -29,8 +29,6 @@
 
 // console.log(createCourse)
 
-
-
 type obj={
     name:string,
     age:number,
