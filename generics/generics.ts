@@ -20,6 +20,7 @@ function printObjectsData<T>({name,age}:T):void{
 console.log(reuseable(1))
 console.log(reuseable("hai"))
 console.log(reuseable(true))
+console.log(reuseable("this is string"))
 
 printObjectsData<User>({name:"barath",age:21})
 

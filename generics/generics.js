@@ -9,6 +9,7 @@ function printObjectsData(_a) {
 console.log(reuseable(1));
 console.log(reuseable("hai"));
 console.log(reuseable(true));
+console.log(reuseable("this is string"));
 printObjectsData({ name: "barath", age: 21 });
 //muktiple parameters
 function multipleParams(a, b) {
